@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheekMap", "CheekMap.csproj", "{672C7456-A5E7-4931-8D7C-C9B581C05572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{672C7456-A5E7-4931-8D7C-C9B581C05572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672C7456-A5E7-4931-8D7C-C9B581C05572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672C7456-A5E7-4931-8D7C-C9B581C05572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672C7456-A5E7-4931-8D7C-C9B581C05572}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9429D8CD-0314-4508-A5FB-C26877C6378B}
+	EndGlobalSection
+EndGlobal
